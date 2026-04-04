@@ -1,0 +1,11 @@
+nav a{
+    text-decoration: none;
+    
+    font-size: 18px;
+    padding: 5px 10px;
+}
+
+nav a.active{
+    /* background-color: #28cf65; */
+    color: red;
+}
